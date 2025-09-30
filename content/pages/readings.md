@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of course readings and a list of additional
   books for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -73,7 +75,7 @@ Research Ethics
 Introduction to the Library
 {{< tdclose >}}
 {{< tdopen >}}
-Examine the {{% resource_link "7ade23a3-e540-430c-99db-1dc657bd5b53" "MIT policies and procedures for research on human subjects" %}} and determine what you will have to do to comply with MIT policies in order to carry out your research project.  
+Examine the [MIT policies and procedures for research on human subjects](http://web.mit.edu/committees/couhes/) and determine what you will have to do to comply with MIT policies in order to carry out your research project.  
   
 Kifner, John. "Scholar Sets Off Gastronomic False Alarm." _New York Times,_ September 8, 2001.  
   

@@ -22,6 +22,7 @@
     "website": "15-347-doctoral-seminar-in-research-methods-i-fall-2004"
   },
   "course_title": "Doctoral Seminar in Research Methods I",
+  "hide_download": true,
   "course_description": "This course is designed to lay the foundations of good empirical research in the social sciences.\u00a0It does not deal with specific techniques per se, but rather with the assumptions and the logic underlying social research. Students become acquainted with a variety of approaches to research design, and are helped to develop their own research projects and to evaluate the products of empirical research.\n",
   "department_numbers": [
     "15"
@@ -32,6 +33,7 @@
     "content": "bc84c81a-4f36-d5b4-5ee2-fb151fab43ab",
     "website": "15-347-doctoral-seminar-in-research-methods-i-fall-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],
