@@ -4,8 +4,6 @@ description: Group research project assignment.
 file: /courses/15-347-doctoral-seminar-in-research-methods-i-fall-2004/ea26459996d26be4c8fc00b06e65c9dd_group_project.pdf
 file_size: 120519
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
